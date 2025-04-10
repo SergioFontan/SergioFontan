@@ -1,16 +1,107 @@
-## Hi there 👋
+# 👨‍🏫 Sergio Fontán Llamas
 
-<!--
-**SergioFontan/SergioFontan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Profesor de enseñanza secundaria, especialidad Sistemas y Aplicaciones Informáticas**  
+Imparto ciclos formativos de Formación Profesional:
 
-Here are some ideas to get you started:
+- 📱 **Desarrollo de Aplicaciones Multiplataforma (DAM)**
+- 🌐 **Desarrollo de Aplicaciones Web (DAW)**
+- 💻 **Sistemas Microinformáticos y Redes (SMR)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente trabajo en un instituto público, tras varios años en centros privados. Apasionado por la docencia, la tecnología y la formación práctica del alumnado.
+
+---
+
+## 🧑‍🏫 Historial docente (por curso académico)
+
+<details>
+  <summary><strong>📅 Curso 2023-2024 — IES NombreActual</strong></summary>
+
+**DAM**
+- Programación
+- Bases de Datos
+
+**DAW**
+- Desarrollo Web en Entorno Cliente
+
+**SMR**
+- Redes Locales
+
+</details>
+
+<details>
+  <summary><strong>📅 Curso 2022-2023 — IES NombreActual</strong></summary>
+
+**DAM**
+- Sistemas Informáticos
+- Desarrollo de Interfaces
+
+**DAW**
+- Lenguajes de Marcas
+- Despliegue de Aplicaciones Web
+
+**SMR**
+- Aplicaciones Ofimáticas
+
+</details>
+
+<details>
+  <summary><strong>📅 Curso 2021-2022 — Centro Privado Tecnología XXI</strong></summary>
+
+**DAM**
+- Acceso a Datos
+- Proyecto DAM
+
+**DAW**
+- Proyecto DAW
+- Desarrollo Web en Entorno Servidor
+
+</details>
+
+<details>
+  <summary><strong>📅 Curso 2020-2021 — Colegio Privado Informax</strong></summary>
+
+**SMR**
+- Seguridad Informática
+- Sistemas Operativos Monopuesto
+
+</details>
+
+---
+
+## 🛠️ Tecnologías que trabajo y enseño
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SergioFontan&show_icons=true&theme=default&count_private=true" alt="Estadísticas de GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioFontan&layout=compact&langs_count=8&theme=default" alt="Lenguajes más usados" />
+</p>
+
+---
+
+## 📊 Otros datos
+
+![Visitas al perfil](https://komarev.com/ghpvc/?username=SergioFontan&label=Visitas+al+perfil&color=0e75b6&style=flat)
+![Commits del año](https://badgen.net/github/commits/SergioFontan/?icon=github)
+
+---
+
+## 📫 Contacto
+
+- ✉️ sergio.fontan@educa.madrid.org
+- 🔗 [LinkedIn]
