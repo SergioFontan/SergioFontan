@@ -66,6 +66,17 @@ Actualmente trabajo en un instituto público, tras varios años en centros priva
 
 </details>
 
+<style>
+details[open] summary ~ * {
+  animation: fadeIn 0.3s ease-in;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+</style>
+
 ---
 
 ## 🛠️ Tecnologías que trabajo y enseño
@@ -76,7 +87,12 @@ Actualmente trabajo en un instituto público, tras varios años en centros priva
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows)
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
@@ -92,6 +108,22 @@ Actualmente trabajo en un instituto público, tras varios años en centros priva
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioFontan&layout=compact&langs_count=8&theme=default" alt="Lenguajes más usados" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SergioFontan&show_icons=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioFontan&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SergioFontan&theme=github-light" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioFontan&layout=donut" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioFontan&layout=donut-vertical" />
+</p>
 ---
 
 ## 📊 Otros datos
