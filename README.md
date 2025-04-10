@@ -66,17 +66,6 @@ Actualmente trabajo en un instituto público, tras varios años en centros priva
 
 </details>
 
-<style>
-details[open] summary ~ * {
-  animation: fadeIn 0.3s ease-in;
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(-5px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-</style>
-
 ---
 
 ## 🛠️ Tecnologías que trabajo y enseño
@@ -92,7 +81,6 @@ details[open] summary ~ * {
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows)
-
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
@@ -129,7 +117,6 @@ details[open] summary ~ * {
 ## 📊 Otros datos
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=SergioFontan&label=Visitas+al+perfil&color=0e75b6&style=flat)
-![Commits del año](https://badgen.net/github/commits/SergioFontan/?icon=github)
 
 ---
 
